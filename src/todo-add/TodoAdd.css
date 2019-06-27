@@ -1,0 +1,11 @@
+.TodoAdd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.TodoAdd-button {
+  margin-left: 20px;
+}
